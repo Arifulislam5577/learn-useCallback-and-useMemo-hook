@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+body {
+  font-family: "Poppins";
+}
+.app {
+  width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.headline {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 2rem;
+}
+
+button {
+  padding: 0.8rem 2rem;
+  background-color: rgb(38, 28, 103);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
